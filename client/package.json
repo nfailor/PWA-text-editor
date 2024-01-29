@@ -13,7 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "code-mirror-themes": "^1.0.0",
     "idb": "^8.0.0"
   },
   "devDependencies": {
