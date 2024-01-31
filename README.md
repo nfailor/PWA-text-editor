@@ -23,7 +23,12 @@
 
   To install necessary dependencies, run the following command:
 
-  npm i, cd server, npm i, cd .., cd client, npm i
+  npm i 
+  cd server 
+  npm i 
+  cd .. 
+  cd client 
+  npm i
 
   ## Usage
 
