@@ -32,7 +32,11 @@
 
   ## Usage
 
-  This project is used in order to view how the service worker is registered, manifest is created, app can be used offline, and installed
+  This project is used in order to view how the service worker is registered, manifest is created, app can be used offline, and installed.
+
+  Feel free to view the deployed link for this app below:
+
+  https://pwa-text-editor-fb4x.onrender.com
 
   ## Licensing
 
